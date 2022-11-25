@@ -10,3 +10,8 @@ function loadMusic()
 {
     musicFile.play(); // 르세라피므
 }
+
+function draw(){
+    fill(255, 0, 0);
+ellipse(50, 50, 100, 100);
+}
