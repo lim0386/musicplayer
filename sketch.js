@@ -8,5 +8,5 @@ function setup()
 
 function loadMusic()
 {
-    musicFile.play();
+    musicFile.play(); // 르세라피므
 }
