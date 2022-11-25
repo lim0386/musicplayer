@@ -18,8 +18,7 @@ function togglePlaying(){
         musicFile.stop();
         button.html('play');
     }
-    }
-}
+ }
 
 function loadMusic()
 {
